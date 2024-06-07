@@ -1,0 +1,77 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    padding-top: 20px;
+}
+
+/* Estilo para o título do formulário */
+.card-title {
+    color: #333;
+}
+
+/* Estilo para o rodapé */
+footer {
+    color: #777;
+}
+
+/* Estilo para o botão */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Estilo para o container do formulário */
+.container {
+    padding: 0 15px;
+}
+
+/* Estilo para o formulário */
+.card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+}
+
+/* Estilo para os campos de entrada */
+.form-control {
+    border-radius: 5px;
+}
+
+/* Estilo para o botão de cadastro */
+.btn-primary {
+    border-radius: 5px;
+}
+footer {
+    background-color: #007bff;
+    color: white;
+    padding: 5px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+footer p {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+footer a {
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+footer img {
+    vertical-align: middle;
+}
